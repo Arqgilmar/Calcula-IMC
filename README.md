@@ -1,7 +1,7 @@
 # Calcula IMC 🔴
 Este projeto recebe o peso, altura e sexo de um indivíduo, em seguida calcule o IMC e exiba uma mensagem de acordo com a tabela de IMC. No código foi utilizado a linguagem C. 
 
-[<img height="400" src="img/intervalonumerico.gif">](https://github.com/Arqgilmar/Exibe-numeros/blob/main/img/intervalonumerico.gif) 
+[<img height="400" src="img/imc.gif">](https://github.com/Arqgilmar/Calcula-IMC/blob/main/img/imc.gif) 
 
 
 ## ⚡ Linguagem usada
